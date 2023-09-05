@@ -8,9 +8,11 @@
 ### Foto 1
 
 ### Lalu saya menginisiasi repo git di folder yang tadi sudah dipilih dengan cara berikut
+
 ### foto 2
 
 ### Lalu di folder tersebut akan muncul folder baru bernama .git
+
 ### foto 3
 
 ### Lalu setelah itu saya mencoba membuat repositori untuk mencoba upload file README.md ke Github
@@ -29,3 +31,14 @@
 
 ### foto 7
 
+### Lalu saya mencoba membuat branch sebelum dimasukan ke dalam github dengan cara 
+
+### foto 8
+
+### lalu saya mencoba untuk menghubungkan github saya dengan terminal saya dengan cara git remote add
+
+### foto 9
+
+### Lalu saya mencoba buat Upload ke github dengan cara git push
+
+### foto10
