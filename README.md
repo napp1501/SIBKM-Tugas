@@ -17,3 +17,15 @@
 
 ### foto4
 
+### Lalu setelah itu saya mencoba add file dengan cara menggunakan git add namafile
+
+### foto 5
+
+### Lalu saya mencoba cek status dari file dengan cara "git status"
+
+### foto 6
+
+### Lalu saya melakukan commit dengan menggunakan git commit -m "Komen"
+
+### foto 7
+
